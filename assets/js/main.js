@@ -43,7 +43,7 @@ $(function() {
 				usePopupCloser:					true,
 				popupLoaderSelector:			'.loader',					// (Advanced) Popup Loader selector
 				popupCloserSelector:			'.closer',
-				popupLoaderText:				'loading bitch',
+				popupLoaderText:				'loading...',
 
 				fadeSpeed: 500,
 				usePopupDefaultStyling: false,
